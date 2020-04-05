@@ -1,0 +1,17 @@
+body{
+    font-family: Verdana;
+}
+
+header {
+    text-align: center;
+    margin: 20px;
+}
+div.parent{
+    display: inline-block;
+}
+section.parent{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
